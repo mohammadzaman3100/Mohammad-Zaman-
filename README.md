@@ -15,7 +15,7 @@
 <h2> The aim is to have the following projects at a finish stage by the end of 2022. All projects are in various stages of development. </h2>
 <br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="480" height="300" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="470" height="290" />
 
 * Unity Multiplayer shooting game.
 
