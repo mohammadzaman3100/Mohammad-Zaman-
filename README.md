@@ -11,7 +11,8 @@
 
 <br>
 
-<H2> The aim is to have the following projects at a finish stage by the end of 2022. All projects are in various stages of development. </h2>
+<H2> The aim is to have the following projects at a finish stage by the end of 2022. 
+  All projects are in various stages of development. </h2>
 <br>
 
 <div align="right" alt="GIF">
