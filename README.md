@@ -9,11 +9,8 @@
 
 * Currently at university and am in Final year. 
 
-[space]
 
-<h2> The aim is to have the following projects at a finish stage by the end of 2022. </h2>
-<h2>All projects are in various stages of development. </h2>
-[space]
+<h2> The aim is to have the following projects at a finish stage by the end of 2022.                  All projects are in various stages of development. </h2>
 <br>
 
 
