@@ -26,7 +26,3 @@
 * Creating a simple application for IOS and Android
  
 * Web Development
-
-<div align="right" align=" Centre">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="200"/>
-</div>
