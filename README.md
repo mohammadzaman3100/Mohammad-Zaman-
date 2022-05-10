@@ -1,4 +1,4 @@
-# Hey there the name is Mohammad Zaman
+align="center" # Hey the name is Mohammad Zaman
 
 <br>
 
