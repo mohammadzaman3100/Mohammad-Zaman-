@@ -27,6 +27,6 @@
  
 * Web Development
 
-<div align="right" alt="GIF">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
+<div align="right" align=" Centre">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="200"/>
 </div>
