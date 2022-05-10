@@ -15,6 +15,8 @@
 <h2> The aim is to have the following projects at a finish stage by the end of 2022. All projects are in various stages of development. </h2>
 <br>
 
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
 * Unity Multiplayer shooting game.
 
 * Experimentation with procedural animation with in unity. 
@@ -30,4 +32,3 @@
 * Web Development
 
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
