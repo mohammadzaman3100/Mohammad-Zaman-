@@ -1,7 +1,8 @@
-<h1 align="center"> Hey the name is Mohammad Zaman </H1>
+<h1 align="center"> I’m Mohammad Zaman 👋 </H1>
 
 <br>
 
+<h3> Over the years have worked on many projects some good and others have been an experience </h3.
 
 * Very keen about learning and developing projects
 
