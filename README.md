@@ -19,7 +19,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="465" height="300" />
 
-* Unity Multiplayer shooting game.
+* Unity Multiplayer shooting project / game.
 
 * Experimentation with procedural animation in unity. 
 
