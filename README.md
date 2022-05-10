@@ -4,6 +4,7 @@
 
 <h3> Over the years have worked on many projects some good and others have been an experience </h3.
 
+ 
 * Very keen about learning and developing projects
 
 * Allway looking for a team or an organization where I can learn and develop new projects
