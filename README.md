@@ -7,7 +7,7 @@
  
 * Very keen about learning and developing projects
 
-* Allway looking for a team or an organization where I can learn and develop new projects
+* Always looking for a team or an organisations where I can learn and develop new projects
 
 * Currently at university and am in Final year. 
 
@@ -21,7 +21,7 @@
 
 * Experimentation with procedural animation with in unity. 
 
-* Unity project for saveing player position data with analytics in mind
+* Unity project for saving player position data with analytics in mind
 
 * Unity inventory system
 
