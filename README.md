@@ -18,9 +18,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="320"/>
 </div>
 
-///<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-
-
 * Unity Multiplayer shooting game.
 
 * Experimentation with procedural animation with in unity. 
@@ -34,3 +31,5 @@
 * Creating a simple application for IOS and Android
  
 * Web Development
+
+*
