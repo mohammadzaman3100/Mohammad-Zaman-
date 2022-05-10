@@ -2,7 +2,7 @@
 
 <br>
 
-<h3> Over the years have worked on many projects some good and others have been an experience </h3.
+<h3> Over the years have worked on many projects some good and others have been an experience </h3>
 
  
 * Very keen about learning and developing projects
@@ -28,3 +28,6 @@
 * Creating a simple application for IOS and Android
  
 * Web Development
+
+
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
