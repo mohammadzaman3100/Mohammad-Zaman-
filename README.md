@@ -1,4 +1,4 @@
-align="center" # Hey the name is Mohammad Zaman
+<h1 align="center"> Hey the name is Mohammad Zaman </H1>
 
 <br>
 
