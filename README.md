@@ -27,7 +27,7 @@
 
 * Unity inventory system
 
-* Experimenting with various UI / menu Systems in Unity 
+* Experimenting with various UI / menu Systems in Unity.  
 
 * Creating a simple application for IOS and Android
  
