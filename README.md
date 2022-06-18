@@ -5,9 +5,9 @@
 <h3> Over the years I have worked on many projects some good and others have been an experience </h3>
 
  
-* Very keen about learning and developing projects
+* Very keen about learning and developing projects. 
 
-* Always looking for a team or organisation where I can learn and develop new projects
+* Always looking for a team or organisation where I can learn and develop new projects. 
 
 * Currently at university and in my final year. 
 
@@ -23,14 +23,14 @@
 
 * Experimentation with procedural animation in unity. 
 
-* Unity project for saving player position data with analytics in mind
+* Unity project for saving player position data with analytics in mind. 
 
-* Unity inventory system
+* Unity inventory system. 
 
 * Experimenting with various UI / menu Systems in Unity.  
 
-* Creating a simple application for IOS and Android
+* Creating a simple application for IOS and Android. 
  
-* Web Development
+* Web Development. 
 
 
