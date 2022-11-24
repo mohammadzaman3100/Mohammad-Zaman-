@@ -9,7 +9,9 @@
 
 * Always looking for a team or organisation where I can learn and develop new projects. 
 
-* Currently at university and in my final year. 
+* Recently graduated from University with a first. 
+
+* Will be updating github over the weekend with all the completed unity projects.
 
 
 <br><br>
