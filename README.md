@@ -16,7 +16,7 @@
 
 <br><br>
 
-<h2> The aim is to have the following projects completed by the end of 2022. All projects are in various stages of development. </h2>
+<h2> The aim is to have the following projects completed by the end of February. All projects are in various stages of development. </h2>
 <br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="465" height="300" />
